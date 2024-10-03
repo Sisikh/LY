@@ -1,0 +1,13 @@
+body{
+    margin-top: 100px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: green;
+    
+}
+img { 
+    width: 200px;
+    height: 200px;
+    opacity: 0.9;
+   }
